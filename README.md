@@ -1,0 +1,1 @@
+# ApplicationForm_AutoCollect
